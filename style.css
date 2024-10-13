@@ -52,3 +52,21 @@ a:hover {
     right: 10vw;
     padding: 1vh;
 }
+
+@media (max-width: 600px) {
+    .h1 {
+        font-size: 3.5em;
+    }
+
+    .h2 {
+        font-size: 1.5em;
+    }
+
+    .p {
+        font-size: 1.25em;
+    }
+
+    .card {
+        margin: 2vh 0vw;
+    }
+}
